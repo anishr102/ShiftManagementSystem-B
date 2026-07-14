@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Cors
+Flask-Mail
+PyMySQL
+python-dotenv
+openpyxl
+pytest
+reportlab
+APScheduler
+gunicorn

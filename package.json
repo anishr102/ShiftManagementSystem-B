@@ -1,0 +1,10 @@
+{
+  "name": "shiftflow-root",
+  "version": "1.0.0",
+  "description": "Root configuration to boot Flask backend and React frontend",
+  "main": "run_app.py",
+  "scripts": {
+    "start": "python run_app.py"
+  },
+  "private": true
+}
